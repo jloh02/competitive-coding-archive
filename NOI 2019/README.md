@@ -25,4 +25,4 @@ Likewise, procedural programming with some brute force. Did the later subtasks a
 ### 3. Feast
 Points: 12/100
 
-Just some brute force solution.
+Just some subtask claiming brute force solution.
