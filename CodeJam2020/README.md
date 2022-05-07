@@ -1,5 +1,5 @@
-# Google CodeJam 2019
+# Google CodeJam 2020
 Result: Qualified for Round 1
 Organized By: Google
 
-First time participating. Qualified for Round 1 but did really badly. Sorry but I don't know what I was writing either in 2019.
+Second time participating. Qualified for Round 1 and still did really badly. I still don't know what I was writing either in 2020 after NOI 2020. Somehow my ranking in 2019 was higher???
