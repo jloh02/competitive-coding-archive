@@ -1,1 +1,2 @@
-# competitive-coding-archive
+# Competitive Coding Archive
+This repository contains my submissions for competitive coding competitions since my start of competitive programming. It is in no means a representation of the most efficient method, but simply the best method that I could code in the span of each competition.
