@@ -10,7 +10,7 @@ Organized By: National University of Singapore
 ### 1. Pilot
 Points: 55/100
 
-I clearly couldn't think of using a stack (optimal solution) so I simply did a smart brute force. Using fast input gave me one extra subtest.
+I clearly couldn't think of using a stack (optimal solution) so I simply did a smart brute force. Using fast input gave me one extra subtask.
 ```cpp
 ios_base::sync_with_stdio(false);
 cin.tie(NULL);
